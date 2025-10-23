@@ -1,7 +1,9 @@
 fastapi
 uvicorn
-openai
 pandas
+openai
 tqdm
 scikit-learn
+numpy
 rapidfuzz
+python-multipart
